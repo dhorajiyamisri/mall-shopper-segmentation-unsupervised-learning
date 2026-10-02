@@ -2,12 +2,6 @@
 
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/9164f54a-7c6e-415e-9480-8f66af3a6278" />
 
-<br>
-
-<img src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108"
-     width="600"
-     alt="Mall Shopper Segmentation">
-
 <br><br>
 
 <div align="center">
