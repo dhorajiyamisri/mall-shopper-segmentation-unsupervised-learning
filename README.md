@@ -10,12 +10,27 @@
 
 <br><br>
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
-![Unsupervised Learning](https://img.shields.io/badge/ML-Unsupervised%20Learning-purple)
-![Status](https://img.shields.io/badge/Project-Completed-success)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python"
+     height="32">
+
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas"
+     height="32">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn"
+     height="32">
+
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter"
+     height="32">
+
+<img src="https://img.shields.io/badge/ML-Unsupervised%20Learning-purple"
+     height="32">
+
+<img src="https://img.shields.io/badge/Project-Completed-success"
+     height="32">
+
+</div>
 
 </div>
 
