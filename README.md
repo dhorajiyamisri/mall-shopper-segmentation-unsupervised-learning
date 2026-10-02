@@ -1,46 +1,38 @@
-<div align="center">
-
-# 🛍️ Mall Shopper Segmentation
-
-### Unsupervised Learning • Customer Profiling • Retail Analytics
-
-*Red & White Skill Education | Practical Exam — Unsupervised Learning (Set B)*
-
-*Student:* Misari Dhorajiya
-
-<br>
-
-<img src="<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108" />
-" width="900">
-
-<br><br>
-
-![PROJECT](https://img.shields.io/badge/PROJECT-MALL%20SHOPPER%20SEGMENTATION-6366F1)
-![PYTHON](https://img.shields.io/badge/PYTHON-3.x-3776AB?logo=python)
-![MACHINE LEARNING](https://img.shields.io/badge/MACHINE%20LEARNING-UNSUPERVISED-8B5CF6)
-![K-MEANS](https://img.shields.io/badge/K--MEANS-CLUSTERING-22C55E)
-![DBSCAN](https://img.shields.io/badge/DBSCAN-CLUSTERING-EF4444)
-![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-ML-F7931E?logo=scikit-learn)
-![JUPYTER](https://img.shields.io/badge/JUPYTER-NOTEBOOK-F37626?logo=jupyter)
-
-</div>
-
----
-
-# 📌 Project Overview
+<h2>📌 Project Overview</h2>
 
 <table>
 <tr>
-
-<td width="55%">
-
-<img src="https://github.com/user-attachments/assets/d6e000fb-35fd-4647-a51d-d3cbc34b7e24"
-     width="100%"
-     alt="Mall Shopper Profiling">
-
+<td width="50%" align="center">
+<img src="images/mall-shopper-overview.png" width="100%" alt="Mall Shopper Segmentation Overview">
 </td>
 
-<td width="45%">
+<td width="50%" valign="top">
+
+<h3>🔍 What is this project?</h3>
+
+<p>
+This project performs <b>Mall Shopper Profiling using Unsupervised Learning</b>.
+The goal is to identify natural groups of customers based on their:
+</p>
+
+<ul>
+<li>Age</li>
+<li>Annual Income</li>
+<li>Spending Score</li>
+<li>Gender</li>
+</ul>
+
+<h3>🎯 Business Objective</h3>
+
+<p>
+The analysis discovers meaningful customer segments that can support
+targeted marketing, loyalty programs, discount campaigns and customer
+retention strategies.
+</p>
+
+</td>
+</tr>
+</table>
 
 ### 🛍️ What is this project?
 
