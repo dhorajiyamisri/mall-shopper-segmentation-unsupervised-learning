@@ -1,60 +1,46 @@
-<h2>📌 Project Overview</h2>
+<div align="center">
+
+# 🛍️ Mall Shopper Segmentation
+
+### Unsupervised Learning • Customer Profiling • Retail Analytics
+
+**Red & White Skill Education | Practical Exam — Unsupervised Learning (Set B)**
+
+**Student:** Misari Dhorajiya
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108"
+     width="900"
+     alt="Mall Shopper Segmentation">
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+![Unsupervised Learning](https://img.shields.io/badge/ML-Unsupervised%20Learning-purple)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+</div>
+
+---
+
+# 📌 Project Overview
 
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="images/mall-shopper-overview.png" width="100%" alt="Mall Shopper Segmentation Overview">
-</td>
 
-<td width="50%" valign="top">
+<td width="55%">
 
-<h3>🔍 What is this project?</h3>
-
-<p>
-This project performs <b>Mall Shopper Profiling using Unsupervised Learning</b>.
-The goal is to identify natural groups of customers based on their:
-</p>
-
-<ul>
-<li>Age</li>
-<li>Annual Income</li>
-<li>Spending Score</li>
-<li>Gender</li>
-</ul>
-
-<h3>🎯 Business Objective</h3>
-
-<p>
-The analysis discovers meaningful customer segments that can support
-targeted marketing, loyalty programs, discount campaigns and customer
-retention strategies.
-</p>
-
-</td>
-</tr>
-</table>
-
-### 🛍️ What is this project?
-
-This project performs **Mall Shopper Profiling using Unsupervised Learning**.
-
-The goal is to discover natural groups of customers based on their:
-
-- Age
-- Annual Income
-- Spending Score
-- Gender
-
-Three clustering algorithms are explored:
-
-**K-Means • Agglomerative • DBSCAN**
-
-The resulting clusters are converted into meaningful **retail shopper personas** that can support targeted marketing, loyalty programs, store planning and customer experience strategies.
+<img src="https://github.com/user-attachments/assets/d6e000fb-35fd-4647-a51d-d3cbc34b7e24"
+     width="100%"
+     alt="Mall Shopper Profiling">
 
 </td>
 
-</tr>
-</table>
+<td width="45%">
 
 ### 🛍️ What is this project?
 
