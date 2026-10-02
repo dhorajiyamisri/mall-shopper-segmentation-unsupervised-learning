@@ -2,11 +2,16 @@
 
 # 🛍️ Mall Shopper Segmentation
 
+### Unsupervised Learning • Customer Profiling • Retail Analytics
+
+*Red & White Skill Education | Practical Exam — Unsupervised Learning (Set B)*
+
+*Student:* Misari Dhorajiya
+
 <br>
 
-<img src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108"
-     width="900"
-     alt="Mall Shopper Segmentation">
+<img src="<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108" />
+" width="900">
 
 <br><br>
 
