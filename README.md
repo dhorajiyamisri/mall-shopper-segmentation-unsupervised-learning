@@ -2,27 +2,21 @@
 
 # 🛍️ Mall Shopper Segmentation
 
-### Unsupervised Learning for Customer Profiling & Retail Analytics
-
-**Red & White Skill Education | Practical Exam — Unsupervised Learning (Set B)**
-
-**Student: Misari Dhorajiya**
-
 <br>
 
-<img src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108"
-     width="900"
-     alt="Mall Shopper Segmentation">
+<img src="images/mall-shopper-banner.png"
+     width="100%"
+     alt="Mall Shopper Segmentation - Unsupervised Learning">
 
 <br><br>
 
 ![PROJECT](https://img.shields.io/badge/PROJECT-MALL%20SHOPPER%20SEGMENTATION-6366F1)
-![UNSUPERVISED LEARNING](https://img.shields.io/badge/UNSUPERVISED%20LEARNING-CUSTOMER%20PROFILING-8B5CF6)
 ![PYTHON](https://img.shields.io/badge/PYTHON-3.x-3776AB?logo=python)
-![PANDAS](https://img.shields.io/badge/PANDAS-DATA%20ANALYSIS-150458?logo=pandas)
-![SCIKIT--LEARN](https://img.shields.io/badge/SCIKIT--LEARN-CLUSTERING-F7931E?logo=scikit-learn)
+![MACHINE LEARNING](https://img.shields.io/badge/MACHINE%20LEARNING-UNSUPERVISED-8B5CF6)
+![K-MEANS](https://img.shields.io/badge/K--MEANS-CLUSTERING-22C55E)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-CLUSTERING-EF4444)
+![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-ML-F7931E?logo=scikit-learn)
 ![JUPYTER](https://img.shields.io/badge/JUPYTER-NOTEBOOK-F37626?logo=jupyter)
-![STATUS](https://img.shields.io/badge/PROJECT-COMPLETED-22C55E)
 
 </div>
 
