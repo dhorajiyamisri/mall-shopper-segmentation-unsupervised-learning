@@ -10,8 +10,9 @@
 
 <br>
 
-<img src="<img width="736" height="600" alt="image" src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108" />
-" width="900">
+<img src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108"
+     width="900"
+     alt="Mall Shopper Segmentation">
 
 <br><br>
 
@@ -33,12 +34,35 @@
 
 <td width="55%">
 
-<img src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6e000fb-35fd-4647-a51d-d3cbc34b7e24" />
-" width="100%">
+<img src="https://github.com/user-attachments/assets/d6e000fb-35fd-4647-a51d-d3cbc34b7e24"
+     width="100%"
+     alt="Mall Shopper Profiling">
 
 </td>
 
 <td width="45%">
+
+### 🛍️ What is this project?
+
+This project performs **Mall Shopper Profiling using Unsupervised Learning**.
+
+The goal is to discover natural groups of customers based on their:
+
+- Age
+- Annual Income
+- Spending Score
+- Gender
+
+Three clustering algorithms are explored:
+
+**K-Means • Agglomerative • DBSCAN**
+
+The resulting clusters are converted into meaningful **retail shopper personas** that can support targeted marketing, loyalty programs, store planning and customer experience strategies.
+
+</td>
+
+</tr>
+</table>
 
 ### 🛍️ What is this project?
 
