@@ -10,8 +10,7 @@
 
 <br>
 
-<img src="<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108" />
-" width="900">
+<img src="images/mall-shopper-hero.jpg" width="900">
 
 <br><br>
 
@@ -33,8 +32,7 @@
 
 <td width="55%">
 
-<img src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6e000fb-35fd-4647-a51d-d3cbc34b7e24" />
-" width="100%">
+<img src="images/mall-shopper-hero.jpg" width="100%">
 
 </td>
 
@@ -166,7 +164,7 @@ The analysis includes:
 
 <td width="50%">
 
-<img src="Graphs/01_Age_Distribution.png" width="100%">
+<img src="images/01_Age_Distribution.png" width="100%">
 
 **Age Distribution**
 
@@ -176,7 +174,7 @@ Shows how customers are distributed across different age groups.
 
 <td width="50%">
 
-<img src="Graphs/02_AnnualIncome_Distribution.png" width="100%">
+<img src="images/02_AnnualIncome_Distribution.png" width="100%">
 
 **Annual Income Distribution**
 
@@ -190,7 +188,7 @@ Shows the distribution of customer annual income.
 
 <td width="50%">
 
-<img src="Graphs/03_SpendingScore_Distribution.png" width="100%">
+<img src="images/03_SpendingScore_Distribution.png" width="100%">
 
 **Spending Score Distribution**
 
@@ -200,7 +198,7 @@ Shows how customer spending behaviour varies across the dataset.
 
 <td width="50%">
 
-<img src="Graphs/07_Gender_Countplot.png" width="100%">
+<img src="images/07_Gender_Countplot.png" width="100%">
 
 **Gender Distribution**
 
@@ -223,7 +221,7 @@ Boxplots were used to visually inspect the numerical variables for unusual obser
 
 <td width="33%">
 
-<img src="Graphs/04_Age_Boxplot.png" width="100%">
+<img src="images/04_Age_Boxplot.png" width="100%">
 
 **Age**
 
@@ -231,7 +229,7 @@ Boxplots were used to visually inspect the numerical variables for unusual obser
 
 <td width="33%">
 
-<img src="Graphs/05_AnnualIncome_Boxplot.png" width="100%">
+<img src="images/05_AnnualIncome_Boxplot.png" width="100%">
 
 **Annual Income**
 
@@ -239,7 +237,7 @@ Boxplots were used to visually inspect the numerical variables for unusual obser
 
 <td width="33%">
 
-<img src="Graphs/06_SpendingScore_Boxplot.png" width="100%">
+<img src="images/06_SpendingScore_Boxplot.png" width="100%">
 
 **Spending Score**
 
@@ -257,7 +255,7 @@ Boxplots were used to visually inspect the numerical variables for unusual obser
 
 <td width="60%">
 
-<img src="Graphs/08_AnnualIncome_vs_SpendingScore.png" width="100%">
+<img src="images/08_AnnualIncome_vs_SpendingScore.png" width="100%">
 
 </td>
 
@@ -289,7 +287,7 @@ These visible patterns provide the motivation for applying clustering algorithms
 
 <td width="50%">
 
-<img src="Graphs/09_Age_vs_SpendingScore_by_Gender.png" width="100%">
+<img src="images/09_Age_vs_SpendingScore_by_Gender.png" width="100%">
 
 **Age vs Spending Score**
 
@@ -297,7 +295,7 @@ These visible patterns provide the motivation for applying clustering algorithms
 
 <td width="50%">
 
-<img src="Graphs/10_Age_vs_AnnualIncome_by_Gender.png" width="100%">
+<img src="images/10_Age_vs_AnnualIncome_by_Gender.png" width="100%">
 
 **Age vs Annual Income**
 
@@ -315,7 +313,7 @@ These visible patterns provide the motivation for applying clustering algorithms
 
 <td width="55%">
 
-<img src="Graphs/11_Correlation_Heatmap.png" width="100%">
+<img src="images/11_Correlation_Heatmap.png" width="100%">
 
 </td>
 
@@ -423,7 +421,7 @@ K-Means clustering was evaluated using:
 
 <td width="60%">
 
-<img src="Graphs/13_KMeans_Elbow_Curve.png" width="100%">
+<img src="images/13_KMeans_Elbow_Curve.png" width="100%">
 
 </td>
 
@@ -453,7 +451,7 @@ The result is also supported by the Silhouette analysis and the visible customer
 
 <td width="60%">
 
-<img src="Graphs/15_KMeans_Clusters_with_Centroids.png" width="100%">
+<img src="images/15_KMeans_Clusters_with_Centroids.png" width="100%">
 
 </td>
 
@@ -479,7 +477,7 @@ The cluster centroids represent the average location of each shopper segment.
 
 <td width="55%">
 
-<img src="Graphs/16_KMeans_Age_vs_Spending.png" width="100%">
+<img src="images/16_KMeans_Age_vs_Spending.png" width="100%">
 
 </td>
 
@@ -501,7 +499,7 @@ The Age vs Spending visualization helps understand whether the income-spending c
 
 <td width="60%">
 
-<img src="Graphs/17_KMeans_Multivariate_PCA.png" width="100%">
+<img src="images/17_KMeans_Multivariate_PCA.png" width="100%">
 
 </td>
 
@@ -539,7 +537,7 @@ Hierarchical clustering was explored using:
 
 <td width="50%">
 
-<img src="Graphs/18_Agglomerative_Full_Dendrogram.png" width="100%">
+<img src="images/18_Agglomerative_Full_Dendrogram.png" width="100%">
 
 **Full Dendrogram**
 
@@ -547,7 +545,7 @@ Hierarchical clustering was explored using:
 
 <td width="50%">
 
-<img src="Graphs/19_Agglomerative_Truncated_Dendrogram.png" width="100%">
+<img src="images/19_Agglomerative_Truncated_Dendrogram.png" width="100%">
 
 **Truncated Dendrogram**
 
@@ -565,7 +563,7 @@ Hierarchical clustering was explored using:
 
 <td width="60%">
 
-<img src="Graphs/20_Agglomerative_Dendrogram_Cut.png" width="100%">
+<img src="images/20_Agglomerative_Dendrogram_Cut.png" width="100%">
 
 </td>
 
@@ -589,7 +587,7 @@ The final hierarchical clustering solution uses **5 clusters**.
 
 <td width="50%">
 
-<img src="Graphs/21_Agglomerative_Income_vs_Spending.png" width="100%">
+<img src="images/21_Agglomerative_Income_vs_Spending.png" width="100%">
 
 **Income vs Spending**
 
@@ -597,7 +595,7 @@ The final hierarchical clustering solution uses **5 clusters**.
 
 <td width="50%">
 
-<img src="Graphs/22_Agglomerative_Age_vs_Spending.png" width="100%">
+<img src="images/22_Agglomerative_Age_vs_Spending.png" width="100%">
 
 **Age vs Spending**
 
@@ -630,7 +628,7 @@ The tuning process included:
 
 <td width="60%">
 
-<img src="Graphs/23_DBSCAN_4NN_Distance.png" width="100%">
+<img src="images/23_DBSCAN_4NN_Distance.png" width="100%">
 
 </td>
 
@@ -654,7 +652,7 @@ The k-nearest-neighbour distance curve was used to support the selection of the 
 
 <td width="60%">
 
-<img src="Graphs/24_DBSCAN_Grid_Heatmap.png" width="100%">
+<img src="images/24_DBSCAN_Grid_Heatmap.png" width="100%">
 
 </td>
 
@@ -685,7 +683,7 @@ The best valid configuration was selected using clustering quality metrics while
 
 <td width="50%">
 
-<img src="Graphs/25_DBSCAN_Income_vs_Spending.png" width="100%">
+<img src="images/25_DBSCAN_Income_vs_Spending.png" width="100%">
 
 **Income vs Spending**
 
@@ -693,7 +691,7 @@ The best valid configuration was selected using clustering quality metrics while
 
 <td width="50%">
 
-<img src="Graphs/26_DBSCAN_Age_vs_Spending.png" width="100%">
+<img src="images/26_DBSCAN_Age_vs_Spending.png" width="100%">
 
 **Age vs Spending**
 
