@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/c1e11244-f535-441e-b7a6-2154300f5bf9" />
-
-**Red & White Skill Education | Practical Exam — Unsupervised Learning (Set B)**
-
-**Student:** Misari Dhorajiya
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/9164f54a-7c6e-415e-9480-8f66af3a6278" />
 
 <br>
 
