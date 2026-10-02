@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108" />
+<img src="<img width="736" height="600" alt="image" src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108" />
 " width="900">
 
 <br><br>
