@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🛍️ Mall Shopper Segmentation
-
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/c1e11244-f535-441e-b7a6-2154300f5bf9" />
 
 **Red & White Skill Education | Practical Exam — Unsupervised Learning (Set B)**
