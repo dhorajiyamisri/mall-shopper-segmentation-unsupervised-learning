@@ -4,9 +4,9 @@
 
 <br>
 
-<img src="images/mall-shopper-banner.png"
-     width="100%"
-     alt="Mall Shopper Segmentation - Unsupervised Learning">
+<img src="https://github.com/user-attachments/assets/56041087-d7f2-44f6-86db-40704b851108"
+     width="900"
+     alt="Mall Shopper Segmentation">
 
 <br><br>
 
