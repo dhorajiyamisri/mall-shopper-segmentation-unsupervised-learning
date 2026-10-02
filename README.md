@@ -2,16 +2,6 @@
 
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/9164f54a-7c6e-415e-9480-8f66af3a6278" />
 
-<br><br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" height="40">
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas" height="40">
-<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn" height="40">
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter" height="40">
-<img src="https://img.shields.io/badge/ML-Unsupervised%20Learning-purple" height="40">
-<img src="https://img.shields.io/badge/Project-Completed-success" height="40">
-
 </div>
 
 ---
